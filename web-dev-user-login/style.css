@@ -1,0 +1,21 @@
+html {
+    background-image: url("/web-dev-user-login-master/images/background.jpg");
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.8);
+} 
+body{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 600px;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ .forgot password {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-style: italic
+ }
+ button {
+     font-size: 20px;
+     background-color: green;
+     color: white
+ }  
